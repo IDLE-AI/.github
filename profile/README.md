@@ -1,6 +1,6 @@
 # IDLE: Intelligent Decentralized Launchpad Ecosystem
 
-[![Demo Video](https://img.youtube.com/vi/NL9TmXI5PDo/0.jpg)](https://www.youtube.com/watch?v=NL9TmXI5PDo)
+[![Demo Video](https://teal-actual-falcon-338.mypinata.cloud/ipfs/bafkreie5hnac6y43d4u6j3wuln3ceq3zn43aw2bv7fwzxz5rxesx7bnn3q)](https://www.youtube.com/watch?v=NL9TmXI5PDo)
 
 👉 **Click the image above to watch the demo!**
 
