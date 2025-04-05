@@ -1,6 +1,7 @@
 # IDLE: Intelligent Decentralized Launchpad Ecosystem
 
 [![Demo Video](https://img.youtube.com/vi/NL9TmXI5PDo/0.jpg)](https://www.youtube.com/watch?v=NL9TmXI5PDo)
+
 👉 **Click the image above to watch the demo!**
 
 ---
